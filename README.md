@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on hyperledger fabric<br>🌱 I’m currently learning blockchain and web3 developement<br>💬 Ask me about: solidity,node.js,next.js,typescript,c++<br>⚡ Fun fact i am lazy
+🔭 I’m currently working on computer vision<br>🌱 I’m currently learning model desoghningt<br>💬 Ask me about: solidity,node.js,next.js,typescript,c++,deep learning <br>⚡ Fun fact i feel empty
 
 
 ## 🌐 Socials:
