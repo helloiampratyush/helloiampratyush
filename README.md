@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on computer vision<br>🌱 I’m currently learning model desoghningt<br>💬 Ask me about: solidity,node.js,next.js,typescript,c++,deep learning <br>⚡ Fun fact i feel empty
+🔭 I’m currently working on computer vision<br>🌱 I’m currently learning model designing<br>💬 Ask me about: solidity,node.js,next.js,typescript,c++,deep learning <br>⚡ Fun fact i feel empty
 
 
 ## 🌐 Socials:
